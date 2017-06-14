@@ -1,3 +1,3 @@
 # HTML
 
-This is code used for learning HTML
+files developed while learning HTML

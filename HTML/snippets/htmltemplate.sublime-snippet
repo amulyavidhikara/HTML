@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+<!DOCTYPE html>
+    <html>
+        <head>
+            $1Meta information goes here!
+        </head>
+        <body>
+            Content goes here!
+        </body>
+    </html>]]>
+    </content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>htmlbasic</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+<scope>text.html</scope>
+</snippet>
